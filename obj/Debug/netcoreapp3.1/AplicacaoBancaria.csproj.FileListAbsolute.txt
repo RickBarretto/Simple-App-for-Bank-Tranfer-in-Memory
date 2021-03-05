@@ -1,0 +1,13 @@
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.csprojAssemblyReference.cache
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.AssemblyInfoInputs.cache
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.AssemblyInfo.cs
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.csproj.CoreCompileInputs.cache
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\bin\Debug\netcoreapp3.1\AplicacaoBancaria.exe
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\bin\Debug\netcoreapp3.1\AplicacaoBancaria.deps.json
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\bin\Debug\netcoreapp3.1\AplicacaoBancaria.runtimeconfig.json
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\bin\Debug\netcoreapp3.1\AplicacaoBancaria.runtimeconfig.dev.json
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\bin\Debug\netcoreapp3.1\AplicacaoBancaria.dll
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\bin\Debug\netcoreapp3.1\AplicacaoBancaria.pdb
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.dll
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.pdb
+D:\Users\pdant\Documents\MRV - Curso\AplicacaoBancaria\obj\Debug\netcoreapp3.1\AplicacaoBancaria.genruntimeconfig.cache
